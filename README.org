@@ -4,6 +4,6 @@ An implementation of the Unicode Standard Annex #14 for standardised line breaki
 
 |---------+--------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/uax-14.git |
-| commit  | 0000000                                    |
+| commit  | db0f931                                    |
 | systems | uax-14                                     |
 |---------+--------------------------------------------|
